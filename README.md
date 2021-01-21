@@ -7,13 +7,13 @@ The Couch Potato strategy involves buying shares of [exchange-traded funds (ETFs
 When automizing investments - for example, buying shares once per week - what is the best time of day, or best day of the week, to buy in? The data analysis in this repository aims to find out.
 
 ## Findings on a Small Data Set
-Here are the results for some common Vanguard and iShares ETFs for a small date range (2020-09-24 through 2020-11-23):
+Here are the results for some common Vanguard and iShares ETFs for a small date range (2020-09-24 through 2021-01-20):
 
 <p align="center">
-	<img width="600" alt="Frequency of Peak Daily Value for each 15m Time Bucket" src="data/images/peak_daily_2020-11-23.png">
-	<img width="600" alt="Frequency of Trough Daily Value for each 15m Time Bucket" src="data/images/trough_daily_2020-11-23.png">
-	<img width="600" alt="Frequency of Peak Weekly Value" src="data/images/peak_weekly_2020-11-23.png">
-	<img width="600" alt="Frequency of Trough Weekly Value" src="data/images/trough_weekly_2020-11-23.png">
+	<img width="600" alt="Frequency of Peak Daily Value for each 15m Time Bucket" src="data/images/peak_daily_2020-01-20.png">
+	<img width="600" alt="Frequency of Trough Daily Value for each 15m Time Bucket" src="data/images/trough_daily_2021-01-20.png">
+	<img width="600" alt="Frequency of Peak Weekly Value" src="data/images/peak_weekly_2021-01-20.png">
+	<img width="600" alt="Frequency of Trough Weekly Value" src="data/images/trough_weekly_2021-01-20.png">
 </p>
 
 There is not much to be gained by investing or selling at a particular time of day. Volatility is high at the open and close of the market each day, meaning that the prices are up to chance at that time. There is perhaps a marginal gain to be made by purchasing between 1 PM and 1:45 PM, and selling between 2 PM and 3 PM, but the data set is too small to say this with certainty.
